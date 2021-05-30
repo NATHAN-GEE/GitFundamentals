@@ -8,9 +8,12 @@ git config --global user.email nathangee867@gmail.com
 ```
 For more information, view the [First Time Git Setup](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) documentation.
 
+---
+
 ## Resources
 - [Git config Documentation](https://git-scm.com/docs/git-config
 )
+
 ---
 
 [back to Home](../README.md)
