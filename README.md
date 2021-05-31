@@ -4,8 +4,8 @@ Git is a control system that allows us to track changes and commit the to histor
 Here is a growing collection of resources and helpful commands to know when working with Git.
 
 ## Git Commands
-- [git config](./Commands/config.md)
-- [git init](./Commands/init.md)
+- [git config](./CommandsConfig.md)
+- [git init](./Commands/Init.md)
 - [git Add](./Commands/Add.md)
 - [git Commit](./Commands/Commit.md)
 - [git Remote](./Commands/Remote.md)
